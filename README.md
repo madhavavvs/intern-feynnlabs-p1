@@ -17,3 +17,5 @@ This is code implementation for the report I written as a intern at FeynnLabs.
 -> "index.html" == This is for user interface to display results on screen.
 
 -> "inputfile.csv" == This is the dataset over which our model got trained.
+
+-> The ipynb file provided to visualise the correlation among data i  google collab.
